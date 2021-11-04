@@ -1,10 +1,8 @@
-# Shel rate limiter
-It limit the number of requests made to your backend in a fixed time frame.
+# Shelf Rate Limiter
+It limits the number of requests made to your backend in a fixed time frame.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
 
 ```dart
   final memoryStorage = MemStorage();
