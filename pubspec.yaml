@@ -1,5 +1,6 @@
 name: shelf_rate_limiter
 description: Limit requests to your shelf backend server.
+repository: https://github.com/ramyak-mehra/shelf_rate_limiter
 version: 1.0.0
 environment:
   sdk: ">=2.14.0 <3.0.0"
